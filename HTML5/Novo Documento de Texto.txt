@@ -1,0 +1,5 @@
+git add "diretório"	(Adiciona os arquivos que deverão ser commitados)
+git commit -m "MENSAGEM"	(Faz commit local com a mensagem enviada)
+git push origin "branch"	(Faz o envio da branch atual local para a branch remota)
+
+git pull origin "branch"	(faz o update dos projetos locais buscando no projeto remoto)
